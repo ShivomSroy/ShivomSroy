@@ -10,7 +10,7 @@ I build complete web applications, from clean, responsive front-ends to solid ba
 🛠️ What I Do
 
 
-Build responsive, user-friendly interfaces 
-Design and develop RESTful APIs and server-side logic
-Work with databases, authentication, and deployment
-Turn designs and ideas into working products
+Build responsive, user-friendly interfaces,
+Design and develop RESTful APIs and server-side logic,
+Work with databases, authentication, and deployment,
+Turn designs and ideas into working products.
